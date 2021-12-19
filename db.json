@@ -490,15 +490,5 @@
   "time": "2:54",
   "petsAllowed": true,
   "organizer": "Billy Belleny"
-}, {
-  "id": 50,
-  "categorie": "Comedy",
-  "title": "Hot to Trot",
-  "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-  "location": "Jaša Tomić",
-  "date": "07/15/2021",
-  "time": "10:20",
-  "petsAllowed": true,
-  "organizer": "Cindy Sundin"
 }]
 }
