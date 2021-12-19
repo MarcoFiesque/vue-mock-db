@@ -40,55 +40,5 @@
   "time": "19:43",
   "petsAllowed": false,
   "organizer": "Bee Jamison"
-}, {
-  "id": 5,
-  "categorie": "Crime|Documentary",
-  "title": "Presumed Guilty (Presunto culpable)",
-  "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-  "location": "Changyŏn",
-  "date": "02/01/2021",
-  "time": "17:28",
-  "petsAllowed": false,
-  "organizer": "Eziechiele Allsop"
-}, {
-  "id": 6,
-  "categorie": "Action|Adventure|Children|Comedy",
-  "title": "Condorman",
-  "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-  "location": "Planovskoye",
-  "date": "12/13/2021",
-  "time": "12:28",
-  "petsAllowed": true,
-  "organizer": "Karel Stove"
-}, {
-  "id": 7,
-  "categorie": "Drama|Musical|Romance",
-  "title": "Dil Se",
-  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-  "location": "Hexi",
-  "date": "08/07/2021",
-  "time": "14:25",
-  "petsAllowed": true,
-  "organizer": "Lurlene Winch"
-}, {
-  "id": 8,
-  "categorie": "Horror|Thriller",
-  "title": "247°F ",
-  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-  "location": "Sîngerei",
-  "date": "05/13/2021",
-  "time": "2:47",
-  "petsAllowed": false,
-  "organizer": "Tybalt Todeo"
-}, {
-  "id": 9,
-  "categorie": "Action|Adventure|Mystery|Thriller",
-  "title": "Hanna",
-  "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-  "location": "Guanmian",
-  "date": "11/04/2021",
-  "time": "16:22",
-  "petsAllowed": true,
-  "organizer": "Livvyy Dericut"
 }]
 }
