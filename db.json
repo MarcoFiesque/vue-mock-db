@@ -30,15 +30,5 @@
   "time": "16:06",
   "petsAllowed": true,
   "organizer": "Todd Couve"
-}, {
-  "id": 4,
-  "categorie": "Drama",
-  "title": "Personal Effects",
-  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
-  "location": "Xiekou",
-  "date": "12/19/2020",
-  "time": "19:43",
-  "petsAllowed": false,
-  "organizer": "Bee Jamison"
 }]
 }
